@@ -1,0 +1,2871 @@
+@prefix ns0:	<http://www.w3.org/ns/sosa/> .
+@prefix ns1:	<http://data.example.com/system/> .
+ns1:6	a	ns0:Sample .
+@prefix ns2:	<https://materials.hybrid3.duke.edu/materials/> .
+ns1:6	ns2:has_created	"2019-03-14 20:18:38" .
+ns1:7	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:38" .
+ns1:8	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:39" .
+ns1:9	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:40" .
+ns1:10	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:40" .
+ns1:11	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:41" .
+ns1:12	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:41" .
+ns1:13	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:42" .
+ns1:14	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:43" .
+ns1:15	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:43" .
+ns1:16	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:44" .
+ns1:17	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:45" .
+ns1:18	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 20:18:45" .
+ns1:22	a	ns0:Sample ;
+	ns2:has_created	"2019-03-14 21:59:32" .
+ns1:106	a	ns0:Sample ;
+	ns2:has_created	"2019-03-15 04:04:08" .
+ns1:107	a	ns0:Sample ;
+	ns2:has_created	"2019-03-15 04:04:08" .
+ns1:108	a	ns0:Sample ;
+	ns2:has_created	"2019-03-15 04:04:08" .
+ns1:126	a	ns0:Sample ;
+	ns2:has_created	"2019-03-21 17:05:05" .
+ns1:128	a	ns0:Sample ;
+	ns2:has_created	"2019-03-24 18:10:00" .
+ns1:129	a	ns0:Sample ;
+	ns2:has_created	"2019-03-24 18:24:01" .
+ns1:131	a	ns0:Sample ;
+	ns2:has_created	"2019-03-24 18:29:30" .
+ns1:132	a	ns0:Sample ;
+	ns2:has_created	"2019-03-24 18:34:58" .
+ns1:134	a	ns0:Sample ;
+	ns2:has_created	"2019-03-25 19:02:04" .
+ns1:135	a	ns0:Sample ;
+	ns2:has_created	"2019-03-25 19:11:48" .
+ns1:136	a	ns0:Sample ;
+	ns2:has_created	"2019-03-25 19:16:21" .
+ns1:137	a	ns0:Sample ;
+	ns2:has_created	"2019-03-25 19:22:34" .
+ns1:138	a	ns0:Sample ;
+	ns2:has_created	"2019-03-25 19:31:55" .
+ns1:139	a	ns0:Sample ;
+	ns2:has_created	"2019-03-25 19:52:19" .
+ns1:140	a	ns0:Sample ;
+	ns2:has_created	"2019-03-25 19:52:27" .
+ns1:144	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 17:39:29" .
+ns1:146	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 17:52:57" .
+ns1:147	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 17:57:20" .
+ns1:148	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 18:07:09" .
+ns1:149	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 18:10:19" .
+ns1:150	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 18:17:51" .
+ns1:151	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 18:23:56" .
+ns1:152	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 18:29:37" .
+ns1:153	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 18:32:19" .
+ns1:154	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 18:36:23" .
+ns1:155	a	ns0:Sample ;
+	ns2:has_created	"2019-04-05 18:44:16" .
+ns1:156	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 02:16:01" .
+ns1:157	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 02:18:39" .
+ns1:158	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 02:21:35" .
+ns1:159	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 20:23:31" .
+ns1:160	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 20:26:33" .
+ns1:161	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 20:36:19" .
+ns1:162	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 20:38:30" .
+ns1:163	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 20:49:38" .
+ns1:164	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 20:53:29" .
+ns1:165	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 20:56:11" .
+ns1:166	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 21:05:32" .
+ns1:167	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 21:11:31" .
+ns1:168	a	ns0:Sample ;
+	ns2:has_created	"2019-04-08 21:15:04" .
+ns1:169	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 01:22:47" .
+ns1:170	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 01:27:02" .
+ns1:171	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 01:45:16" .
+ns1:172	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 01:48:04" .
+ns1:173	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 01:50:04" .
+ns1:174	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 01:55:03" .
+ns1:176	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 01:58:26" .
+ns1:178	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 02:01:08" .
+ns1:179	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 02:04:23" .
+ns1:182	a	ns0:Sample ;
+	ns2:has_created	"2019-04-09 02:09:56" .
+ns1:183	a	ns0:Sample ;
+	ns2:has_created	"2019-04-10 01:18:29" .
+ns1:184	a	ns0:Sample ;
+	ns2:has_created	"2019-04-10 01:23:29" .
+ns1:185	a	ns0:Sample ;
+	ns2:has_created	"2019-04-10 01:26:44" .
+ns1:186	a	ns0:Sample ;
+	ns2:has_created	"2019-04-10 02:14:36" .
+ns1:187	a	ns0:Sample ;
+	ns2:has_created	"2019-04-10 23:10:34" .
+ns1:188	a	ns0:Sample ;
+	ns2:has_created	"2019-04-10 23:21:42" .
+ns1:189	a	ns0:Sample ;
+	ns2:has_created	"2019-04-10 23:43:32" .
+ns1:190	a	ns0:Sample ;
+	ns2:has_created	"2019-04-10 23:54:28" .
+ns1:191	a	ns0:Sample ;
+	ns2:has_created	"2019-04-11 00:01:38" .
+ns1:192	a	ns0:Sample ;
+	ns2:has_created	"2019-04-13 21:59:51" .
+ns1:193	a	ns0:Sample ;
+	ns2:has_created	"2019-04-13 22:03:27" .
+ns1:194	a	ns0:Sample ;
+	ns2:has_created	"2019-04-13 22:12:24" .
+ns1:195	a	ns0:Sample ;
+	ns2:has_created	"2019-04-13 22:12:29" .
+ns1:197	a	ns0:Sample ;
+	ns2:has_created	"2019-04-13 22:44:41" .
+ns1:198	a	ns0:Sample ;
+	ns2:has_created	"2019-04-13 22:49:09" .
+ns1:199	a	ns0:Sample ;
+	ns2:has_created	"2019-04-13 22:51:19" .
+ns1:200	a	ns0:Sample ;
+	ns2:has_created	"2019-04-13 22:54:15" .
+ns1:201	a	ns0:Sample ;
+	ns2:has_created	"2019-04-13 22:58:18" .
+ns1:202	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 00:15:05" .
+ns1:203	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 00:21:40" .
+ns1:204	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 00:26:52" .
+ns1:205	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 19:46:03" .
+ns1:206	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 19:49:45" .
+ns1:207	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 19:54:16" .
+ns1:208	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 20:02:32" .
+ns1:210	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 20:09:56" .
+ns1:211	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 20:13:18" .
+ns1:212	a	ns0:Sample ;
+	ns2:has_created	"2019-04-14 20:17:51" .
+ns1:216	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:08" .
+ns1:217	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:09" .
+ns1:218	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:10" .
+ns1:220	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:11" .
+ns1:221	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:12" .
+ns1:222	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:12" .
+ns1:223	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:13" .
+ns1:224	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:14" .
+ns1:225	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:14" .
+ns1:226	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:14" .
+ns1:227	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:15" .
+ns1:228	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:15" .
+ns1:229	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:16" .
+ns1:230	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:16" .
+ns1:231	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:17" .
+ns1:232	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:17" .
+ns1:233	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:17" .
+ns1:234	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:18" .
+ns1:235	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:18" .
+ns1:236	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:19" .
+ns1:237	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:20" .
+ns1:238	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:21" .
+ns1:239	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:22" .
+ns1:240	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:22" .
+ns1:241	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:23" .
+ns1:242	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:24" .
+ns1:243	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:25" .
+ns1:244	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:25" .
+ns1:245	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:26" .
+ns1:246	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:27" .
+ns1:247	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:27" .
+ns1:248	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:28" .
+ns1:249	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:28" .
+ns1:250	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:29" .
+ns1:251	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:30" .
+ns1:252	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:31" .
+ns1:253	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:31" .
+ns1:254	a	ns0:Sample ;
+	ns2:has_created	"2019-04-16 01:54:32" .
+ns1:265	a	ns0:Sample ;
+	ns2:has_created	"2019-04-22 17:26:51" .
+ns1:266	a	ns0:Sample ;
+	ns2:has_created	"2019-04-22 17:32:10" .
+ns1:267	a	ns0:Sample ;
+	ns2:has_created	"2019-04-22 17:35:07" .
+ns1:268	a	ns0:Sample ;
+	ns2:has_created	"2019-04-22 17:38:41" .
+ns1:269	a	ns0:Sample ;
+	ns2:has_created	"2019-04-22 17:41:55" .
+ns1:270	a	ns0:Sample ;
+	ns2:has_created	"2019-04-22 17:44:09" .
+ns1:271	a	ns0:Sample ;
+	ns2:has_created	"2019-04-22 17:47:47" .
+ns1:272	a	ns0:Sample ;
+	ns2:has_created	"2019-04-26 20:00:58" .
+ns1:273	a	ns0:Sample ;
+	ns2:has_created	"2019-04-29 13:25:12" .
+ns1:274	a	ns0:Sample ;
+	ns2:has_created	"2019-04-29 13:27:19" .
+ns1:275	a	ns0:Sample ;
+	ns2:has_created	"2019-04-29 13:28:45" .
+ns1:277	a	ns0:Sample ;
+	ns2:has_created	"2019-04-29 20:22:20" .
+ns1:279	a	ns0:Sample ;
+	ns2:has_created	"2019-04-30 02:37:05" .
+ns1:282	a	ns0:Sample ;
+	ns2:has_created	"2019-04-30 03:05:39" .
+ns1:287	a	ns0:Sample ;
+	ns2:has_created	"2019-04-30 20:08:31" .
+ns1:296	a	ns0:Sample ;
+	ns2:has_created	"2019-05-01 16:43:06" .
+ns1:301	a	ns0:Sample ;
+	ns2:has_created	"2019-05-01 17:46:28" .
+ns1:312	a	ns0:Sample ;
+	ns2:has_created	"2019-05-02 18:56:48" .
+ns1:313	a	ns0:Sample ;
+	ns2:has_created	"2019-05-02 19:04:19" .
+ns1:314	a	ns0:Sample ;
+	ns2:has_created	"2019-05-02 19:27:33" .
+ns1:316	a	ns0:Sample ;
+	ns2:has_created	"2019-05-03 03:01:47" .
+ns1:317	a	ns0:Sample ;
+	ns2:has_created	"2019-05-03 03:04:27" .
+ns1:322	a	ns0:Sample ;
+	ns2:has_created	"2019-05-07 19:26:04" .
+ns1:330	a	ns0:Sample ;
+	ns2:has_created	"2019-05-07 20:14:39" .
+ns1:332	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:01:39" .
+ns1:333	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:02:02" .
+ns1:334	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:02:21" .
+ns1:335	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:02:33" .
+ns1:336	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:02:44" .
+ns1:337	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:02:54" .
+ns1:338	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:03:03" .
+ns1:339	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:03:11" .
+ns1:340	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:03:17" .
+ns1:341	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:03:30" .
+ns1:342	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:03:44" .
+ns1:343	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:04:00" .
+ns1:345	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:04:35" .
+ns1:346	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:04:56" .
+ns1:347	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:05:08" .
+ns1:348	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:05:19" .
+ns1:349	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:05:30" .
+ns1:350	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:05:42" .
+ns1:351	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:05:56" .
+ns1:352	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:06:08" .
+ns1:353	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:06:20" .
+ns1:354	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:06:33" .
+ns1:355	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:06:47" .
+ns1:356	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:07:03" .
+ns1:357	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:07:19" .
+ns1:358	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 20:07:39" .
+ns1:359	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 21:39:04" .
+ns1:360	a	ns0:Sample ;
+	ns2:has_created	"2019-05-08 21:39:24" .
+ns1:365	a	ns0:Sample ;
+	ns2:has_created	"2019-05-09 02:03:31" .
+ns1:366	a	ns0:Sample ;
+	ns2:has_created	"2019-05-09 18:30:49" .
+ns1:367	a	ns0:Sample ;
+	ns2:has_created	"2019-05-09 18:30:49" .
+ns1:368	a	ns0:Sample ;
+	ns2:has_created	"2019-05-09 18:30:50" .
+ns1:369	a	ns0:Sample ;
+	ns2:has_created	"2019-05-10 18:54:18" .
+ns1:370	a	ns0:Sample ;
+	ns2:has_created	"2019-05-10 18:58:13" .
+ns1:371	a	ns0:Sample ;
+	ns2:has_created	"2019-05-10 19:01:35" .
+ns1:372	a	ns0:Sample ;
+	ns2:has_created	"2019-05-22 04:36:25" .
+ns1:373	a	ns0:Sample ;
+	ns2:has_created	"2019-05-22 04:37:26" .
+ns1:374	a	ns0:Sample ;
+	ns2:has_created	"2019-05-22 04:41:23" .
+ns1:375	a	ns0:Sample ;
+	ns2:has_created	"2019-05-22 04:43:32" .
+ns1:376	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 15:03:57" .
+ns1:377	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:35" .
+ns1:378	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:35" .
+ns1:379	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:380	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:381	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:382	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:383	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:384	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:385	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:386	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:387	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:388	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:389	a	ns0:Sample ;
+	ns2:has_created	"2019-05-23 16:00:36" .
+ns1:393	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:00:58" .
+ns1:394	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:15:38" .
+ns1:395	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:24:47" .
+ns1:396	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:28:15" .
+ns1:397	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:32:25" .
+ns1:398	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:36:05" .
+ns1:400	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:50:22" .
+ns1:401	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:53:18" .
+ns1:402	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:54:46" .
+ns1:403	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 20:58:53" .
+ns1:404	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 21:01:16" .
+ns1:405	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 21:06:36" .
+ns1:407	a	ns0:Sample ;
+	ns2:has_created	"2019-06-04 21:12:52" .
+ns1:408	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:33:21" .
+ns1:409	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:35:52" .
+ns1:410	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:37:27" .
+ns1:411	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:39:45" .
+ns1:412	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:40:57" .
+ns1:413	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:46:27" .
+ns1:414	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:50:29" .
+ns1:415	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:52:39" .
+ns1:416	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:53:55" .
+ns1:417	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:55:02" .
+ns1:418	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:55:58" .
+ns1:419	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 09:57:44" .
+ns1:420	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 10:00:10" .
+ns1:421	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 10:01:40" .
+ns1:422	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 10:02:56" .
+ns1:423	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 10:04:01" .
+ns1:424	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 10:04:52" .
+ns1:425	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 10:18:59" .
+ns1:426	a	ns0:Sample ;
+	ns2:has_created	"2019-06-05 10:47:31" .
+ns1:427	a	ns0:Sample ;
+	ns2:has_created	"2019-06-07 03:48:12" .
+ns1:428	a	ns0:Sample ;
+	ns2:has_created	"2019-06-07 03:57:54" .
+ns1:429	a	ns0:Sample ;
+	ns2:has_created	"2019-06-07 04:09:19" .
+ns1:430	a	ns0:Sample ;
+	ns2:has_created	"2019-06-07 04:14:42" .
+ns1:431	a	ns0:Sample ;
+	ns2:has_created	"2019-06-07 04:37:19" .
+ns1:432	a	ns0:Sample ;
+	ns2:has_created	"2019-06-07 04:44:36" .
+ns1:433	a	ns0:Sample ;
+	ns2:has_created	"2019-06-09 20:41:30" .
+ns1:434	a	ns0:Sample ;
+	ns2:has_created	"2019-06-09 21:01:42" .
+ns1:435	a	ns0:Sample ;
+	ns2:has_created	"2019-06-09 21:03:52" .
+ns1:436	a	ns0:Sample ;
+	ns2:has_created	"2019-06-09 21:11:24" .
+ns1:437	a	ns0:Sample ;
+	ns2:has_created	"2019-06-09 21:17:49" .
+ns1:438	a	ns0:Sample ;
+	ns2:has_created	"2019-06-09 21:35:06" .
+ns1:439	a	ns0:Sample ;
+	ns2:has_created	"2019-06-09 21:43:36" .
+ns1:440	a	ns0:Sample ;
+	ns2:has_created	"2019-06-09 22:01:17" .
+ns1:441	a	ns0:Sample ;
+	ns2:has_created	"2019-06-17 00:43:46" .
+ns1:442	a	ns0:Sample ;
+	ns2:has_created	"2019-06-17 00:55:45" .
+ns1:443	a	ns0:Sample ;
+	ns2:has_created	"2019-06-17 01:14:06" .
+ns1:444	a	ns0:Sample ;
+	ns2:has_created	"2019-06-17 01:23:54" .
+ns1:445	a	ns0:Sample ;
+	ns2:has_created	"2019-06-17 01:32:47" .
+ns1:446	a	ns0:Sample ;
+	ns2:has_created	"2019-06-18 15:41:21" .
+ns1:448	a	ns0:Sample ;
+	ns2:has_created	"2019-06-18 15:50:46" .
+ns1:449	a	ns0:Sample ;
+	ns2:has_created	"2019-06-18 15:54:42" .
+ns1:450	a	ns0:Sample ;
+	ns2:has_created	"2019-06-18 15:59:28" .
+ns1:451	a	ns0:Sample ;
+	ns2:has_created	"2019-06-30 21:52:09" .
+ns1:452	a	ns0:Sample ;
+	ns2:has_created	"2019-06-30 21:54:51" .
+ns1:453	a	ns0:Sample ;
+	ns2:has_created	"2019-06-30 22:06:59" .
+ns1:454	a	ns0:Sample ;
+	ns2:has_created	"2019-06-30 22:14:02" .
+ns1:455	a	ns0:Sample ;
+	ns2:has_created	"2019-06-30 22:18:32" .
+ns1:456	a	ns0:Sample ;
+	ns2:has_created	"2019-06-30 22:33:17" .
+ns1:457	a	ns0:Sample ;
+	ns2:has_created	"2019-06-30 22:38:07" .
+ns1:458	a	ns0:Sample ;
+	ns2:has_created	"2019-06-30 22:46:32" .
+ns1:459	a	ns0:Sample ;
+	ns2:has_created	"2019-06-30 23:00:18" .
+ns1:460	a	ns0:Sample ;
+	ns2:has_created	"2019-07-02 15:20:58" .
+ns1:461	a	ns0:Sample ;
+	ns2:has_created	"2019-07-02 15:33:20" .
+ns1:462	a	ns0:Sample ;
+	ns2:has_created	"2019-07-03 15:56:18" .
+ns1:463	a	ns0:Sample ;
+	ns2:has_created	"2019-07-03 15:59:59" .
+ns1:464	a	ns0:Sample ;
+	ns2:has_created	"2019-07-03 16:04:38" .
+ns1:465	a	ns0:Sample ;
+	ns2:has_created	"2019-07-14 20:20:55" .
+ns1:466	a	ns0:Sample ;
+	ns2:has_created	"2019-08-09 01:44:50" .
+ns1:467	a	ns0:Sample ;
+	ns2:has_created	"2019-08-09 01:47:57" .
+ns1:469	a	ns0:Sample ;
+	ns2:has_created	"2019-08-11 23:08:34" .
+ns1:470	a	ns0:Sample ;
+	ns2:has_created	"2019-08-11 23:13:41" .
+ns1:472	a	ns0:Sample ;
+	ns2:has_created	"2019-08-11 23:24:40" .
+ns1:473	a	ns0:Sample ;
+	ns2:has_created	"2019-08-11 23:45:00" .
+ns1:474	a	ns0:Sample ;
+	ns2:has_created	"2019-08-13 19:18:03" .
+ns1:475	a	ns0:Sample ;
+	ns2:has_created	"2019-08-13 19:23:41" .
+ns1:476	a	ns0:Sample ;
+	ns2:has_created	"2019-08-13 19:34:18" .
+ns1:477	a	ns0:Sample ;
+	ns2:has_created	"2019-08-13 19:45:07" .
+ns1:478	a	ns0:Sample ;
+	ns2:has_created	"2019-08-13 19:46:20" .
+ns1:479	a	ns0:Sample ;
+	ns2:has_created	"2019-08-13 19:48:52" .
+ns1:480	a	ns0:Sample ;
+	ns2:has_created	"2019-08-13 19:50:50" .
+ns1:481	a	ns0:Sample ;
+	ns2:has_created	"2019-08-13 19:52:58" .
+ns1:482	a	ns0:Sample ;
+	ns2:has_created	"2019-08-13 19:54:54" .
+ns1:483	a	ns0:Sample ;
+	ns2:has_created	"2019-08-14 19:12:20" .
+ns1:484	a	ns0:Sample ;
+	ns2:has_created	"2019-08-14 19:42:29" .
+ns1:485	a	ns0:Sample ;
+	ns2:has_created	"2019-08-14 19:46:50" .
+ns1:486	a	ns0:Sample ;
+	ns2:has_created	"2019-08-14 19:49:01" .
+ns1:488	a	ns0:Sample ;
+	ns2:has_created	"2019-08-15 18:52:18" .
+ns1:489	a	ns0:Sample ;
+	ns2:has_created	"2019-08-15 19:05:20" .
+ns1:490	a	ns0:Sample ;
+	ns2:has_created	"2019-08-15 19:13:04" .
+ns1:491	a	ns0:Sample ;
+	ns2:has_created	"2019-08-15 19:18:25" .
+ns1:492	a	ns0:Sample ;
+	ns2:has_created	"2019-08-15 19:26:28" .
+ns1:493	a	ns0:Sample ;
+	ns2:has_created	"2019-08-15 19:54:50" .
+ns1:494	a	ns0:Sample ;
+	ns2:has_created	"2019-08-15 21:53:50" .
+ns1:495	a	ns0:Sample ;
+	ns2:has_created	"2019-08-15 21:56:51" .
+ns1:496	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 01:15:58" .
+ns1:497	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 01:20:03" .
+ns1:498	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 01:27:06" .
+ns1:499	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 01:34:08" .
+ns1:500	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 01:40:33" .
+ns1:501	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 01:44:49" .
+ns1:502	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 01:48:32" .
+ns1:503	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 18:57:26" .
+ns1:504	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 19:01:11" .
+ns1:505	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 19:02:28" .
+ns1:506	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 19:05:53" .
+ns1:507	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 19:07:15" .
+ns1:508	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 19:09:45" .
+ns1:509	a	ns0:Sample ;
+	ns2:has_created	"2019-08-18 19:11:03" .
+ns1:510	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 15:41:13" .
+ns1:511	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 15:47:11" .
+ns1:512	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 15:48:11" .
+ns1:513	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 15:52:06" .
+ns1:514	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 15:52:48" .
+ns1:515	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 15:54:42" .
+ns1:516	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 15:56:36" .
+ns1:517	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 16:10:13" .
+ns1:518	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 16:13:04" .
+ns1:519	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 16:15:09" .
+ns1:520	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 16:24:28" .
+ns1:521	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 16:26:58" .
+ns1:522	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 17:20:03" .
+ns1:523	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 17:22:20" .
+ns1:525	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 17:43:30" .
+ns1:526	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 17:51:19" .
+ns1:527	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 17:53:12" .
+ns1:529	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 17:59:05" .
+ns1:530	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:11:36" .
+ns1:531	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:20:21" .
+ns1:532	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:24:53" .
+ns1:533	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:29:50" .
+ns1:534	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:31:09" .
+ns1:535	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:31:10" .
+ns1:536	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:37:17" .
+ns1:537	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:42:45" .
+ns1:539	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:44:55" .
+ns1:540	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 18:45:22" .
+ns1:541	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:01:44" .
+ns1:542	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:03:38" .
+ns1:544	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:07:24" .
+ns1:546	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:19:05" .
+ns1:547	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:20:28" .
+ns1:548	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:27:22" .
+ns1:549	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:29:06" .
+ns1:551	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:35:10" .
+ns1:552	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:41:18" .
+ns1:553	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:44:35" .
+ns1:554	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:47:33" .
+ns1:555	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:49:39" .
+ns1:556	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 19:53:15" .
+ns1:557	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 20:01:56" .
+ns1:558	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 20:06:54" .
+ns1:560	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 20:10:44" .
+ns1:561	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 20:13:46" .
+ns1:562	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 20:15:13" .
+ns1:563	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 20:15:23" .
+ns1:564	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 20:17:46" .
+ns1:565	a	ns0:Sample ;
+	ns2:has_created	"2019-08-19 20:18:41" .
+ns1:566	a	ns0:Sample ;
+	ns2:has_created	"2019-08-20 00:59:48" .
+ns1:567	a	ns0:Sample ;
+	ns2:has_created	"2019-08-20 01:05:32" .
+ns1:568	a	ns0:Sample ;
+	ns2:has_created	"2019-08-20 01:10:23" .
+ns1:569	a	ns0:Sample ;
+	ns2:has_created	"2019-08-20 01:12:01" .
+ns1:570	a	ns0:Sample ;
+	ns2:has_created	"2019-08-21 02:36:32" .
+ns1:571	a	ns0:Sample ;
+	ns2:has_created	"2019-08-21 02:52:11" .
+ns1:588	a	ns0:Sample ;
+	ns2:has_created	"2019-08-22 02:28:26" .
+ns1:589	a	ns0:Sample ;
+	ns2:has_created	"2019-08-22 04:59:11" .
+ns1:590	a	ns0:Sample ;
+	ns2:has_created	"2019-08-23 01:12:31" .
+ns1:591	a	ns0:Sample ;
+	ns2:has_created	"2019-08-23 01:24:34" .
+ns1:592	a	ns0:Sample ;
+	ns2:has_created	"2019-08-23 19:18:51" .
+ns1:593	a	ns0:Sample ;
+	ns2:has_created	"2019-08-23 19:22:23" .
+ns1:594	a	ns0:Sample ;
+	ns2:has_created	"2019-08-23 19:24:03" .
+ns1:595	a	ns0:Sample ;
+	ns2:has_created	"2019-08-24 13:21:57" .
+ns1:596	a	ns0:Sample ;
+	ns2:has_created	"2019-08-24 13:43:58" .
+ns1:597	a	ns0:Sample ;
+	ns2:has_created	"2019-08-24 14:34:08" .
+ns1:598	a	ns0:Sample ;
+	ns2:has_created	"2019-08-24 14:36:28" .
+ns1:601	a	ns0:Sample ;
+	ns2:has_created	"2019-08-24 23:03:01" .
+ns1:602	a	ns0:Sample ;
+	ns2:has_created	"2019-08-24 23:10:11" .
+ns1:604	a	ns0:Sample ;
+	ns2:has_created	"2019-08-24 23:11:29" .
+ns1:605	a	ns0:Sample ;
+	ns2:has_created	"2019-08-24 23:40:38" .
+ns1:607	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 00:16:47" .
+ns1:608	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 00:26:06" .
+ns1:609	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 20:25:05" .
+ns1:610	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 20:45:20" .
+ns1:611	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 20:47:42" .
+ns1:612	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 20:48:33" .
+ns1:614	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 21:34:46" .
+ns1:615	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 21:51:43" .
+ns1:616	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 21:52:52" .
+ns1:617	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 22:35:02" .
+ns1:618	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 22:36:59" .
+ns1:619	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 22:39:04" .
+ns1:620	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 22:40:09" .
+ns1:621	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 22:42:19" .
+ns1:622	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 22:43:21" .
+ns1:623	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 22:45:22" .
+ns1:624	a	ns0:Sample ;
+	ns2:has_created	"2019-08-25 22:46:25" .
+ns1:625	a	ns0:Sample ;
+	ns2:has_created	"2019-08-26 10:57:45" .
+ns1:626	a	ns0:Sample ;
+	ns2:has_created	"2019-08-26 11:02:53" .
+ns1:627	a	ns0:Sample ;
+	ns2:has_created	"2019-08-27 19:16:25" .
+ns1:628	a	ns0:Sample ;
+	ns2:has_created	"2019-08-27 20:06:10" .
+ns1:629	a	ns0:Sample ;
+	ns2:has_created	"2019-08-28 19:32:02" .
+ns1:630	a	ns0:Sample ;
+	ns2:has_created	"2019-08-30 01:33:57" .
+ns1:631	a	ns0:Sample ;
+	ns2:has_created	"2019-08-30 02:19:52" .
+ns1:632	a	ns0:Sample ;
+	ns2:has_created	"2019-08-30 18:24:28" .
+ns1:633	a	ns0:Sample ;
+	ns2:has_created	"2019-08-30 18:42:39" .
+ns1:634	a	ns0:Sample ;
+	ns2:has_created	"2019-08-30 19:01:07" .
+ns1:635	a	ns0:Sample ;
+	ns2:has_created	"2019-09-01 14:20:03" .
+ns1:636	a	ns0:Sample ;
+	ns2:has_created	"2019-09-01 14:23:43" .
+ns1:637	a	ns0:Sample ;
+	ns2:has_created	"2019-09-01 14:25:27" .
+ns1:638	a	ns0:Sample ;
+	ns2:has_created	"2019-09-01 15:07:13" .
+ns1:639	a	ns0:Sample ;
+	ns2:has_created	"2019-09-01 15:12:22" .
+ns1:640	a	ns0:Sample ;
+	ns2:has_created	"2019-09-03 19:01:49" .
+ns1:641	a	ns0:Sample ;
+	ns2:has_created	"2019-09-03 19:05:45" .
+ns1:642	a	ns0:Sample ;
+	ns2:has_created	"2019-09-03 19:10:02" .
+ns1:643	a	ns0:Sample ;
+	ns2:has_created	"2019-09-03 22:57:16" .
+ns1:644	a	ns0:Sample ;
+	ns2:has_created	"2019-09-03 22:59:39" .
+ns1:645	a	ns0:Sample ;
+	ns2:has_created	"2019-09-03 23:02:24" .
+ns1:646	a	ns0:Sample ;
+	ns2:has_created	"2019-09-05 20:26:07" .
+ns1:647	a	ns0:Sample ;
+	ns2:has_created	"2019-09-05 20:27:45" .
+ns1:648	a	ns0:Sample ;
+	ns2:has_created	"2019-09-05 20:29:48" .
+ns1:649	a	ns0:Sample ;
+	ns2:has_created	"2019-09-05 20:34:36" .
+ns1:650	a	ns0:Sample ;
+	ns2:has_created	"2019-09-05 20:37:03" .
+ns1:651	a	ns0:Sample ;
+	ns2:has_created	"2019-09-05 20:39:32" .
+ns1:652	a	ns0:Sample ;
+	ns2:has_created	"2019-09-06 15:15:17" .
+ns1:653	a	ns0:Sample ;
+	ns2:has_created	"2019-09-06 15:20:45" .
+ns1:654	a	ns0:Sample ;
+	ns2:has_created	"2019-09-06 15:30:41" .
+ns1:655	a	ns0:Sample ;
+	ns2:has_created	"2019-09-06 15:50:38" .
+ns1:656	a	ns0:Sample ;
+	ns2:has_created	"2019-09-06 19:25:00" .
+ns1:657	a	ns0:Sample ;
+	ns2:has_created	"2019-09-07 17:43:02" .
+ns1:658	a	ns0:Sample ;
+	ns2:has_created	"2019-09-07 18:28:24" .
+ns1:659	a	ns0:Sample ;
+	ns2:has_created	"2019-09-08 00:06:49" .
+ns1:660	a	ns0:Sample ;
+	ns2:has_created	"2019-09-08 00:18:28" .
+ns1:661	a	ns0:Sample ;
+	ns2:has_created	"2019-09-09 21:55:53" .
+ns1:662	a	ns0:Sample ;
+	ns2:has_created	"2019-09-09 21:56:51" .
+ns1:663	a	ns0:Sample ;
+	ns2:has_created	"2019-09-10 22:40:48" .
+ns1:664	a	ns0:Sample ;
+	ns2:has_created	"2019-09-10 22:50:18" .
+ns1:665	a	ns0:Sample ;
+	ns2:has_created	"2019-09-10 23:16:05" .
+ns1:666	a	ns0:Sample ;
+	ns2:has_created	"2019-09-10 23:21:03" .
+ns1:667	a	ns0:Sample ;
+	ns2:has_created	"2019-09-10 23:59:36" .
+ns1:668	a	ns0:Sample ;
+	ns2:has_created	"2019-09-11 00:03:04" .
+ns1:669	a	ns0:Sample ;
+	ns2:has_created	"2019-09-11 00:15:49" .
+ns1:670	a	ns0:Sample ;
+	ns2:has_created	"2019-09-11 00:17:57" .
+ns1:671	a	ns0:Sample ;
+	ns2:has_created	"2019-09-11 00:32:26" .
+ns1:672	a	ns0:Sample ;
+	ns2:has_created	"2019-09-11 00:35:32" .
+ns1:673	a	ns0:Sample ;
+	ns2:has_created	"2019-09-11 00:37:48" .
+ns1:680	a	ns0:Sample ;
+	ns2:has_created	"2019-09-17 18:07:45" .
+ns1:681	a	ns0:Sample ;
+	ns2:has_created	"2019-09-17 18:12:56" .
+ns1:682	a	ns0:Sample ;
+	ns2:has_created	"2019-09-17 18:26:54" .
+ns1:683	a	ns0:Sample ;
+	ns2:has_created	"2019-09-17 18:33:29" .
+ns1:685	a	ns0:Sample ;
+	ns2:has_created	"2019-09-17 21:44:49" .
+ns1:686	a	ns0:Sample ;
+	ns2:has_created	"2019-09-17 21:49:40" .
+ns1:687	a	ns0:Sample ;
+	ns2:has_created	"2019-09-18 15:20:42" .
+ns1:688	a	ns0:Sample ;
+	ns2:has_created	"2019-09-18 16:29:09" .
+ns1:689	a	ns0:Sample ;
+	ns2:has_created	"2019-09-18 16:40:48" .
+ns1:690	a	ns0:Sample ;
+	ns2:has_created	"2019-09-18 17:11:09" .
+ns1:691	a	ns0:Sample ;
+	ns2:has_created	"2019-09-18 17:14:20" .
+ns1:692	a	ns0:Sample ;
+	ns2:has_created	"2019-09-18 17:29:06" .
+ns1:693	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 17:16:49" .
+ns1:694	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 17:18:31" .
+ns1:695	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 17:26:39" .
+ns1:696	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 18:30:48" .
+ns1:697	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 18:32:32" .
+ns1:698	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 18:37:05" .
+ns1:699	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 18:51:49" .
+ns1:700	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 18:55:01" .
+ns1:701	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 18:56:00" .
+ns1:702	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 18:59:25" .
+ns1:703	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 20:11:42" .
+ns1:704	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 20:15:08" .
+ns1:705	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 20:19:22" .
+ns1:706	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 20:21:12" .
+ns1:708	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 20:28:32" .
+ns1:710	a	ns0:Sample ;
+	ns2:has_created	"2019-09-19 20:30:45" .
+ns1:711	a	ns0:Sample ;
+	ns2:has_created	"2019-09-21 18:56:26" .
+ns1:712	a	ns0:Sample ;
+	ns2:has_created	"2019-09-21 19:41:58" .
+ns1:713	a	ns0:Sample ;
+	ns2:has_created	"2019-09-21 21:45:57" .
+ns1:714	a	ns0:Sample ;
+	ns2:has_created	"2019-09-21 21:59:53" .
+ns1:715	a	ns0:Sample ;
+	ns2:has_created	"2019-09-21 22:22:09" .
+ns1:716	a	ns0:Sample ;
+	ns2:has_created	"2019-09-21 22:44:57" .
+ns1:717	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 00:23:45" .
+ns1:718	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 01:42:30" .
+ns1:719	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 01:45:29" .
+ns1:720	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 01:47:55" .
+ns1:721	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 01:50:06" .
+ns1:722	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 03:34:36" .
+ns1:723	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 03:37:15" .
+ns1:724	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 03:39:33" .
+ns1:725	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 03:41:51" .
+ns1:726	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 03:43:52" .
+ns1:727	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 03:45:43" .
+ns1:728	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 17:51:05" .
+ns1:729	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 18:08:36" .
+ns1:730	a	ns0:Sample ;
+	ns2:has_created	"2019-09-22 18:19:51" .
+ns1:731	a	ns0:Sample ;
+	ns2:has_created	"2019-10-05 17:24:42" .
+ns1:732	a	ns0:Sample ;
+	ns2:has_created	"2019-10-05 17:40:35" .
+ns1:733	a	ns0:Sample ;
+	ns2:has_created	"2019-10-05 17:54:53" .
+ns1:734	a	ns0:Sample ;
+	ns2:has_created	"2019-10-05 17:59:55" .
+ns1:735	a	ns0:Sample ;
+	ns2:has_created	"2019-10-05 18:25:51" .
+ns1:736	a	ns0:Sample ;
+	ns2:has_created	"2019-10-05 18:33:13" .
+ns1:737	a	ns0:Sample ;
+	ns2:has_created	"2019-10-05 18:38:31" .
+ns1:738	a	ns0:Sample ;
+	ns2:has_created	"2019-10-05 18:43:22" .
+ns1:742	a	ns0:Sample ;
+	ns2:has_created	"2019-10-25 15:47:52" .
+ns1:743	a	ns0:Sample ;
+	ns2:has_created	"2019-10-25 17:43:47" .
+ns1:744	a	ns0:Sample ;
+	ns2:has_created	"2020-02-21 16:27:39" .
+ns1:745	a	ns0:Sample ;
+	ns2:has_created	"2020-02-25 19:01:45" .
+ns1:746	a	ns0:Sample ;
+	ns2:has_created	"2020-04-21 16:46:18" .
+ns1:763	a	ns0:Sample ;
+	ns2:has_created	"2020-04-26 01:02:29" .
+ns1:777	a	ns0:Sample ;
+	ns2:has_created	"2020-04-26 16:14:06" .
+ns1:786	a	ns0:Sample ;
+	ns2:has_created	"2020-04-26 21:20:47" .
+ns1:788	a	ns0:Sample ;
+	ns2:has_created	"2020-04-26 21:39:55" .
+ns1:794	a	ns0:Sample ;
+	ns2:has_created	"2020-04-26 22:16:02" .
+ns1:795	a	ns0:Sample ;
+	ns2:has_created	"2020-04-26 22:24:31" .
+ns1:798	a	ns0:Sample ;
+	ns2:has_created	"2020-04-27 02:11:25" .
+ns1:799	a	ns0:Sample ;
+	ns2:has_created	"2020-04-27 02:26:28" .
+ns1:801	a	ns0:Sample ;
+	ns2:has_created	"2020-04-27 02:52:04" .
+ns1:802	a	ns0:Sample ;
+	ns2:has_created	"2020-04-27 02:57:04" .
+ns1:803	a	ns0:Sample ;
+	ns2:has_created	"2020-04-27 03:11:55" .
+ns1:804	a	ns0:Sample ;
+	ns2:has_created	"2020-05-02 21:12:53" .
+ns1:805	a	ns0:Sample ;
+	ns2:has_created	"2020-05-02 22:31:50" .
+ns1:806	a	ns0:Sample ;
+	ns2:has_created	"2020-05-03 21:01:05" .
+ns1:807	a	ns0:Sample ;
+	ns2:has_created	"2020-05-03 21:07:11" .
+ns1:808	a	ns0:Sample ;
+	ns2:has_created	"2020-05-03 21:09:26" .
+ns1:809	a	ns0:Sample ;
+	ns2:has_created	"2020-05-03 21:11:31" .
+ns1:810	a	ns0:Sample ;
+	ns2:has_created	"2020-05-03 21:24:37" .
+ns1:811	a	ns0:Sample ;
+	ns2:has_created	"2020-05-03 21:28:11" .
+ns1:812	a	ns0:Sample ;
+	ns2:has_created	"2020-05-03 21:29:25" .
+ns1:813	a	ns0:Sample ;
+	ns2:has_created	"2020-05-03 21:30:30" .
+ns1:815	a	ns0:Sample ;
+	ns2:has_created	"2020-05-03 21:41:00" .
+ns1:821	a	ns0:Sample ;
+	ns2:has_created	"2020-05-04 03:09:11" .
+ns1:822	a	ns0:Sample ;
+	ns2:has_created	"2020-05-04 03:15:04" .
+ns1:823	a	ns0:Sample ;
+	ns2:has_created	"2020-05-04 03:17:19" .
+ns1:824	a	ns0:Sample ;
+	ns2:has_created	"2020-05-04 03:27:38" .
+ns1:825	a	ns0:Sample ;
+	ns2:has_created	"2020-05-04 03:34:30" .
+ns1:826	a	ns0:Sample ;
+	ns2:has_created	"2020-05-10 22:17:07" .
+ns1:827	a	ns0:Sample ;
+	ns2:has_created	"2020-05-10 22:19:10" .
+ns1:828	a	ns0:Sample ;
+	ns2:has_created	"2020-05-10 22:25:24" .
+ns1:829	a	ns0:Sample ;
+	ns2:has_created	"2020-05-10 22:26:48" .
+ns1:830	a	ns0:Sample ;
+	ns2:has_created	"2020-05-10 22:30:32" .
+ns1:831	a	ns0:Sample ;
+	ns2:has_created	"2020-05-10 22:34:08" .
+ns1:832	a	ns0:Sample ;
+	ns2:has_created	"2020-05-10 22:35:08" .
+ns1:833	a	ns0:Sample ;
+	ns2:has_created	"2020-05-10 22:36:13" .
+ns1:834	a	ns0:Sample ;
+	ns2:has_created	"2020-05-11 02:16:07" .
+ns1:835	a	ns0:Sample ;
+	ns2:has_created	"2020-05-11 03:45:01" .
+ns1:836	a	ns0:Sample ;
+	ns2:has_created	"2020-05-11 03:48:04" .
+ns1:837	a	ns0:Sample ;
+	ns2:has_created	"2020-05-11 03:53:28" .
+ns1:841	a	ns0:Sample ;
+	ns2:has_created	"2020-05-11 04:06:40" .
+ns1:842	a	ns0:Sample ;
+	ns2:has_created	"2020-05-11 18:20:57" .
+ns1:843	a	ns0:Sample ;
+	ns2:has_created	"2020-05-11 18:25:43" .
+ns1:847	a	ns0:Sample ;
+	ns2:has_created	"2020-05-14 14:51:51" .
+ns1:848	a	ns0:Sample ;
+	ns2:has_created	"2020-05-14 14:54:28" .
+ns1:849	a	ns0:Sample ;
+	ns2:has_created	"2020-05-14 14:57:44" .
+ns1:850	a	ns0:Sample ;
+	ns2:has_created	"2020-05-14 15:04:36" .
+ns1:851	a	ns0:Sample ;
+	ns2:has_created	"2020-05-14 15:25:27" .
+ns1:852	a	ns0:Sample ;
+	ns2:has_created	"2020-05-14 15:27:37" .
+ns1:853	a	ns0:Sample ;
+	ns2:has_created	"2020-05-14 15:31:26" .
+ns1:854	a	ns0:Sample ;
+	ns2:has_created	"2020-05-14 15:33:00" .
+ns1:855	a	ns0:Sample ;
+	ns2:has_created	"2020-05-15 05:32:52" .
+ns1:861	a	ns0:Sample ;
+	ns2:has_created	"2020-05-15 05:36:38" .
+ns1:862	a	ns0:Sample ;
+	ns2:has_created	"2020-05-15 05:39:15" .
+ns1:863	a	ns0:Sample ;
+	ns2:has_created	"2020-05-15 05:40:25" .
+ns1:864	a	ns0:Sample ;
+	ns2:has_created	"2020-05-15 05:42:01" .
+ns1:865	a	ns0:Sample ;
+	ns2:has_created	"2020-05-15 05:50:11" .
+ns1:867	a	ns0:Sample ;
+	ns2:has_created	"2020-05-15 06:07:30" .
+ns1:869	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:06:16" .
+ns1:870	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:11:57" .
+ns1:871	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:13:18" .
+ns1:872	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:15:05" .
+ns1:873	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:16:43" .
+ns1:874	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:18:43" .
+ns1:875	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:20:02" .
+ns1:877	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:21:17" .
+ns1:878	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:46:57" .
+ns1:879	a	ns0:Sample ;
+	ns2:has_created	"2020-05-17 16:48:24" .
+ns1:881	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 09:22:56" .
+ns1:882	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 09:24:40" .
+ns1:883	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 09:25:43" .
+ns1:884	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 09:34:25" .
+ns1:885	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 09:37:13" .
+ns1:886	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 09:39:07" .
+ns1:887	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 10:25:45" .
+ns1:888	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 10:28:55" .
+ns1:889	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 10:30:05" .
+ns1:890	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 10:33:40" .
+ns1:891	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 10:34:55" .
+ns1:892	a	ns0:Sample ;
+	ns2:has_created	"2020-05-20 10:36:33" .
+ns1:893	a	ns0:Sample ;
+	ns2:has_created	"2020-06-05 01:36:24" .
+ns1:895	a	ns0:Sample ;
+	ns2:has_created	"2020-06-05 01:40:57" .
+ns1:896	a	ns0:Sample ;
+	ns2:has_created	"2020-06-05 01:42:59" .
+ns1:902	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 03:11:50" .
+ns1:903	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 03:14:53" .
+ns1:904	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 03:16:10" .
+ns1:905	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 04:48:52" .
+ns1:906	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 04:57:01" .
+ns1:907	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 04:59:11" .
+ns1:910	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 05:10:53" .
+ns1:911	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 05:22:52" .
+ns1:912	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 05:24:56" .
+ns1:913	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 05:26:47" .
+ns1:914	a	ns0:Sample ;
+	ns2:has_created	"2020-06-12 05:28:46" .
+ns1:915	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 02:50:50" .
+ns1:916	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 03:04:25" .
+ns1:917	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 03:05:42" .
+ns1:918	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 18:04:51" .
+ns1:919	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 18:56:02" .
+ns1:920	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 19:09:02" .
+ns1:921	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 19:11:22" .
+ns1:924	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 19:52:23" .
+ns1:926	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 20:31:58" .
+ns1:927	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 20:34:22" .
+ns1:928	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 20:35:19" .
+ns1:929	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 20:43:15" .
+ns1:930	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 20:51:22" .
+ns1:931	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 20:52:04" .
+ns1:932	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 20:52:52" .
+ns1:934	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 21:03:26" .
+ns1:936	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 21:06:51" .
+ns1:937	a	ns0:Sample ;
+	ns2:has_created	"2020-06-22 21:09:29" .
+ns1:940	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 04:07:55" .
+ns1:941	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 04:10:35" .
+ns1:942	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 04:13:29" .
+ns1:943	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 04:20:12" .
+ns1:944	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 04:31:18" .
+ns1:948	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 15:46:28" .
+ns1:949	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 16:28:12" .
+ns1:950	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 18:06:00" .
+ns1:951	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 18:21:46" .
+ns1:952	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 18:30:55" .
+ns1:953	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 18:33:13" .
+ns1:954	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 19:03:15" .
+ns1:955	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 19:10:08" .
+ns1:956	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 19:16:47" .
+ns1:957	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 19:18:29" .
+ns1:958	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 21:49:40" .
+ns1:959	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 21:52:02" .
+ns1:960	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 21:54:18" .
+ns1:961	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 21:55:23" .
+ns1:962	a	ns0:Sample ;
+	ns2:has_created	"2020-06-23 23:38:36" .
+ns1:965	a	ns0:Sample ;
+	ns2:has_created	"2020-06-24 02:46:10" .
+ns1:968	a	ns0:Sample ;
+	ns2:has_created	"2020-06-24 04:13:13" .
+ns1:972	a	ns0:Sample ;
+	ns2:has_created	"2020-06-24 04:57:06" .
+ns1:973	a	ns0:Sample ;
+	ns2:has_created	"2020-06-24 05:01:46" .
+ns1:974	a	ns0:Sample ;
+	ns2:has_created	"2020-06-24 05:04:15" .
+ns1:978	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 16:33:11" .
+ns1:979	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 16:37:12" .
+ns1:980	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 16:38:55" .
+ns1:981	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 16:41:50" .
+ns1:982	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 16:46:31" .
+ns1:983	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 16:48:33" .
+ns1:987	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 17:14:14" .
+ns1:988	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 17:21:24" .
+ns1:989	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 17:26:19" .
+ns1:990	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 17:28:43" .
+ns1:991	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 17:31:54" .
+ns1:992	a	ns0:Sample ;
+	ns2:has_created	"2020-06-25 17:33:05" .
+ns1:995	a	ns0:Sample ;
+	ns2:has_created	"2020-06-26 21:55:08" .
+ns1:998	a	ns0:Sample ;
+	ns2:has_created	"2020-06-26 22:02:36" .
+ns1:999	a	ns0:Sample ;
+	ns2:has_created	"2020-06-26 22:12:13" .
+ns1:1002	a	ns0:Sample ;
+	ns2:has_created	"2020-06-27 03:52:40" .
+ns1:1003	a	ns0:Sample ;
+	ns2:has_created	"2020-06-27 04:39:02" .
+ns1:1005	a	ns0:Sample ;
+	ns2:has_created	"2020-06-27 04:46:29" .
+ns1:1006	a	ns0:Sample ;
+	ns2:has_created	"2020-06-28 18:33:34" .
+ns1:1007	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 00:48:10" .
+ns1:1008	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 01:03:24" .
+ns1:1009	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 01:08:58" .
+ns1:1010	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 01:11:09" .
+ns1:1011	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 01:18:13" .
+ns1:1012	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 01:24:21" .
+ns1:1013	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:05:36" .
+ns1:1014	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:08:30" .
+ns1:1015	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:11:37" .
+ns1:1016	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:14:07" .
+ns1:1017	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:15:58" .
+ns1:1018	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:18:09" .
+ns1:1021	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:23:07" .
+ns1:1022	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:29:31" .
+ns1:1023	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:33:08" .
+ns1:1024	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:34:42" .
+ns1:1025	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:38:32" .
+ns1:1026	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:40:11" .
+ns1:1027	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:43:27" .
+ns1:1028	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:45:08" .
+ns1:1029	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:46:28" .
+ns1:1030	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:48:37" .
+ns1:1031	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:50:14" .
+ns1:1032	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:52:55" .
+ns1:1033	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 07:54:13" .
+ns1:1034	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 19:22:01" .
+ns1:1035	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 19:33:39" .
+ns1:1036	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 19:38:49" .
+ns1:1037	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 19:41:47" .
+ns1:1038	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 19:46:11" .
+ns1:1039	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 19:48:30" .
+ns1:1040	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 19:49:37" .
+ns1:1041	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 19:50:26" .
+ns1:1042	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 19:53:03" .
+ns1:1043	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 20:00:07" .
+ns1:1044	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 20:00:56" .
+ns1:1045	a	ns0:Sample ;
+	ns2:has_created	"2020-06-29 20:01:29" .
+ns1:1046	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 01:43:30" .
+ns1:1047	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 01:47:01" .
+ns1:1048	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 01:48:42" .
+ns1:1049	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 01:52:33" .
+ns1:1050	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 01:55:33" .
+ns1:1051	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 01:58:44" .
+ns1:1052	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:07:27" .
+ns1:1053	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:08:29" .
+ns1:1054	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:13:26" .
+ns1:1055	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:15:57" .
+ns1:1056	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:17:05" .
+ns1:1057	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:17:57" .
+ns1:1058	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:23:19" .
+ns1:1059	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:26:27" .
+ns1:1060	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:27:34" .
+ns1:1061	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 02:29:24" .
+ns1:1062	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 21:23:47" .
+ns1:1063	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 21:26:31" .
+ns1:1064	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 21:40:29" .
+ns1:1065	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 21:42:43" .
+ns1:1066	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 21:49:17" .
+ns1:1067	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 21:52:51" .
+ns1:1068	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 23:57:47" .
+ns1:1069	a	ns0:Sample ;
+	ns2:has_created	"2020-06-30 23:59:04" .
+ns1:1070	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:00:24" .
+ns1:1071	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:05:45" .
+ns1:1072	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:08:15" .
+ns1:1073	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:09:12" .
+ns1:1074	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:10:30" .
+ns1:1075	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:11:11" .
+ns1:1076	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:15:04" .
+ns1:1077	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:17:35" .
+ns1:1078	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:18:44" .
+ns1:1079	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:20:00" .
+ns1:1080	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:20:41" .
+ns1:1081	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:34:34" .
+ns1:1082	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:36:48" .
+ns1:1083	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:37:43" .
+ns1:1084	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:38:42" .
+ns1:1085	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:39:15" .
+ns1:1086	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:44:05" .
+ns1:1087	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:45:41" .
+ns1:1088	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:46:20" .
+ns1:1089	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:47:11" .
+ns1:1090	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:48:16" .
+ns1:1091	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:51:01" .
+ns1:1092	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:53:14" .
+ns1:1093	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:53:49" .
+ns1:1094	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:54:40" .
+ns1:1095	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:55:08" .
+ns1:1096	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 00:58:37" .
+ns1:1097	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 01:00:53" .
+ns1:1098	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 01:01:31" .
+ns1:1099	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 01:02:19" .
+ns1:1100	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 01:02:52" .
+ns1:1102	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:00:09" .
+ns1:1103	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:28:19" .
+ns1:1104	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:29:31" .
+ns1:1105	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:30:37" .
+ns1:1106	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:33:41" .
+ns1:1108	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:36:52" .
+ns1:1109	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:37:32" .
+ns1:1111	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:42:09" .
+ns1:1113	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:47:13" .
+ns1:1114	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:48:21" .
+ns1:1115	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:49:17" .
+ns1:1116	a	ns0:Sample ;
+	ns2:has_created	"2020-07-01 21:50:12" .
+ns1:1117	a	ns0:Sample ;
+	ns2:has_created	"2020-07-02 01:34:47" .
+ns1:1118	a	ns0:Sample ;
+	ns2:has_created	"2020-07-02 01:38:38" .
+ns1:1119	a	ns0:Sample ;
+	ns2:has_created	"2020-07-02 01:39:04" .
+ns1:1120	a	ns0:Sample ;
+	ns2:has_created	"2020-07-02 01:40:41" .
+ns1:1121	a	ns0:Sample ;
+	ns2:has_created	"2020-07-02 01:41:19" .
+ns1:1122	a	ns0:Sample ;
+	ns2:has_created	"2020-07-02 15:54:44" .
+ns1:1129	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 17:08:19" .
+ns1:1130	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 17:10:59" .
+ns1:1131	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 17:12:11" .
+ns1:1132	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 17:14:46" .
+ns1:1133	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 17:16:42" .
+ns1:1134	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 17:18:56" .
+ns1:1135	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 17:20:51" .
+ns1:1136	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 22:25:01" .
+ns1:1137	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 22:28:17" .
+ns1:1138	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 22:29:48" .
+ns1:1139	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 22:35:32" .
+ns1:1140	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 22:42:59" .
+ns1:1141	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 22:52:28" .
+ns1:1142	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 22:54:00" .
+ns1:1143	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 22:59:24" .
+ns1:1144	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:06:02" .
+ns1:1145	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:09:23" .
+ns1:1146	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:10:52" .
+ns1:1147	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:15:10" .
+ns1:1148	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:20:17" .
+ns1:1149	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:23:04" .
+ns1:1150	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:24:37" .
+ns1:1151	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:26:55" .
+ns1:1152	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:28:03" .
+ns1:1153	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:33:10" .
+ns1:1154	a	ns0:Sample ;
+	ns2:has_created	"2020-07-05 23:38:16" .
+ns1:1158	a	ns0:Sample ;
+	ns2:has_created	"2020-07-06 17:14:59" .
+ns1:1159	a	ns0:Sample ;
+	ns2:has_created	"2020-07-06 17:22:39" .
+ns1:1160	a	ns0:Sample ;
+	ns2:has_created	"2020-07-06 17:26:41" .
+ns1:1161	a	ns0:Sample ;
+	ns2:has_created	"2020-07-06 18:14:29" .
+ns1:1162	a	ns0:Sample ;
+	ns2:has_created	"2020-07-06 18:29:03" .
+ns1:1163	a	ns0:Sample ;
+	ns2:has_created	"2020-07-06 18:30:35" .
+ns1:1164	a	ns0:Sample ;
+	ns2:has_created	"2020-07-06 19:41:15" .
+ns1:1165	a	ns0:Sample ;
+	ns2:has_created	"2020-07-06 20:28:24" .
+ns1:1169	a	ns0:Sample ;
+	ns2:has_created	"2020-07-07 19:42:50" .
+ns1:1170	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 03:48:09" .
+ns1:1171	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 03:53:46" .
+ns1:1172	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 03:56:41" .
+ns1:1173	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 04:00:23" .
+ns1:1174	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 04:04:34" .
+ns1:1175	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 04:08:20" .
+ns1:1176	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 04:13:52" .
+ns1:1177	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 04:17:12" .
+ns1:1178	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 04:20:20" .
+ns1:1179	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:08:45" .
+ns1:1180	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:17:25" .
+ns1:1181	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:20:53" .
+ns1:1182	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:23:15" .
+ns1:1183	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:24:50" .
+ns1:1184	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:26:47" .
+ns1:1185	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:28:48" .
+ns1:1186	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:47:33" .
+ns1:1187	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:48:40" .
+ns1:1188	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:49:13" .
+ns1:1189	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:50:18" .
+ns1:1190	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:50:49" .
+ns1:1191	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:51:22" .
+ns1:1192	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:52:39" .
+ns1:1193	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 21:53:04" .
+ns1:1194	a	ns0:Sample ;
+	ns2:has_created	"2020-07-08 23:30:16" .
+ns1:1199	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 02:37:16" .
+ns1:1200	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 02:40:15" .
+ns1:1201	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 02:42:21" .
+ns1:1202	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 02:44:42" .
+ns1:1203	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 02:46:37" .
+ns1:1204	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 02:51:41" .
+ns1:1205	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 03:09:48" .
+ns1:1206	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 03:11:09" .
+ns1:1207	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 03:12:30" .
+ns1:1208	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 03:13:30" .
+ns1:1209	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:13:49" .
+ns1:1210	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:18:41" .
+ns1:1211	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:20:40" .
+ns1:1212	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:24:24" .
+ns1:1213	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:28:50" .
+ns1:1214	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:30:10" .
+ns1:1215	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:33:33" .
+ns1:1216	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:36:24" .
+ns1:1217	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:45:08" .
+ns1:1218	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:48:13" .
+ns1:1219	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:49:19" .
+ns1:1220	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:50:02" .
+ns1:1221	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:50:31" .
+ns1:1222	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:51:18" .
+ns1:1223	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:51:54" .
+ns1:1224	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 18:52:23" .
+ns1:1227	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:23:18" .
+ns1:1229	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:28:21" .
+ns1:1230	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:29:27" .
+ns1:1231	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:30:35" .
+ns1:1232	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:31:23" .
+ns1:1234	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:32:52" .
+ns1:1235	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:33:31" .
+ns1:1236	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:33:55" .
+ns1:1237	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:42:37" .
+ns1:1238	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:43:39" .
+ns1:1239	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:44:04" .
+ns1:1240	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:44:36" .
+ns1:1241	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:45:09" .
+ns1:1242	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:45:38" .
+ns1:1243	a	ns0:Sample ;
+	ns2:has_created	"2020-07-09 19:45:53" .
+ns1:1246	a	ns0:Sample ;
+	ns2:has_created	"2020-07-11 02:51:12" .
+ns1:1247	a	ns0:Sample ;
+	ns2:has_created	"2020-07-11 02:51:12" .
+ns1:1248	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 00:37:50" .
+ns1:1249	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 00:39:55" .
+ns1:1251	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 00:42:24" .
+ns1:1252	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 00:52:08" .
+ns1:1255	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 01:52:21" .
+ns1:1256	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 01:55:30" .
+ns1:1257	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 02:03:28" .
+ns1:1258	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 02:08:17" .
+ns1:1259	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 04:39:08" .
+ns1:1260	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 04:49:26" .
+ns1:1261	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 04:52:03" .
+ns1:1262	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 04:59:11" .
+ns1:1263	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 05:02:55" .
+ns1:1264	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 05:12:47" .
+ns1:1265	a	ns0:Sample ;
+	ns2:has_created	"2020-07-12 05:20:08" .
+ns1:1266	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 04:42:50" .
+ns1:1267	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 04:47:52" .
+ns1:1268	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 04:58:17" .
+ns1:1269	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:00:58" .
+ns1:1270	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:05:51" .
+ns1:1271	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:07:33" .
+ns1:1272	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:18:34" .
+ns1:1273	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:21:55" .
+ns1:1274	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:24:57" .
+ns1:1275	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:26:49" .
+ns1:1276	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:29:12" .
+ns1:1277	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:37:15" .
+ns1:1278	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:40:25" .
+ns1:1279	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:45:08" .
+ns1:1280	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:46:40" .
+ns1:1281	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:51:05" .
+ns1:1282	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 05:59:32" .
+ns1:1283	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:01:54" .
+ns1:1284	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:07:37" .
+ns1:1285	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:09:32" .
+ns1:1286	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:11:44" .
+ns1:1287	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:13:12" .
+ns1:1288	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:21:50" .
+ns1:1289	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:27:23" .
+ns1:1290	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:29:07" .
+ns1:1291	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:30:40" .
+ns1:1292	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:34:44" .
+ns1:1293	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:40:37" .
+ns1:1294	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:41:30" .
+ns1:1295	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:43:09" .
+ns1:1296	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:44:56" .
+ns1:1297	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:46:31" .
+ns1:1298	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:51:59" .
+ns1:1299	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:54:29" .
+ns1:1300	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 06:58:41" .
+ns1:1301	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:00:23" .
+ns1:1302	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:01:44" .
+ns1:1303	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:09:19" .
+ns1:1304	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:10:13" .
+ns1:1305	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:18:43" .
+ns1:1306	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:19:59" .
+ns1:1307	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:21:35" .
+ns1:1308	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:30:24" .
+ns1:1309	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:36:30" .
+ns1:1310	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:38:39" .
+ns1:1311	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:40:36" .
+ns1:1312	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:42:08" .
+ns1:1313	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:43:37" .
+ns1:1314	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:48:52" .
+ns1:1315	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:52:55" .
+ns1:1316	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:54:39" .
+ns1:1317	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 07:55:50" .
+ns1:1318	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 08:06:02" .
+ns1:1319	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 12:00:34" .
+ns1:1320	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 12:49:53" .
+ns1:1322	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 15:57:59" .
+ns1:1323	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 16:03:13" .
+ns1:1324	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 16:08:50" .
+ns1:1325	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 16:11:17" .
+ns1:1326	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 16:13:07" .
+ns1:1327	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 16:15:17" .
+ns1:1328	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 22:49:01" .
+ns1:1329	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:00:15" .
+ns1:1330	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:03:35" .
+ns1:1331	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:06:41" .
+ns1:1332	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:07:46" .
+ns1:1333	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:08:48" .
+ns1:1334	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:10:01" .
+ns1:1335	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:10:32" .
+ns1:1336	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:11:13" .
+ns1:1337	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:15:22" .
+ns1:1338	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:17:40" .
+ns1:1339	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:18:12" .
+ns1:1340	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:21:08" .
+ns1:1341	a	ns0:Sample ;
+	ns2:has_created	"2020-07-13 23:23:08" .
+ns1:1343	a	ns0:Sample ;
+	ns2:has_created	"2020-07-15 03:40:02" .
+ns1:1345	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 02:56:31" .
+ns1:1346	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:03:44" .
+ns1:1347	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:05:02" .
+ns1:1348	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:08:26" .
+ns1:1349	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:14:16" .
+ns1:1350	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:26:34" .
+ns1:1351	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:28:40" .
+ns1:1352	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:30:07" .
+ns1:1353	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:31:49" .
+ns1:1354	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:34:57" .
+ns1:1355	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:37:28" .
+ns1:1356	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 03:40:18" .
+ns1:1358	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 18:44:58" .
+ns1:1359	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 18:52:02" .
+ns1:1360	a	ns0:Sample ;
+	ns2:has_created	"2020-07-16 18:53:39" .
+ns1:1362	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 03:44:47" .
+ns1:1363	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:16:43" .
+ns1:1364	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:18:18" .
+ns1:1365	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:20:21" .
+ns1:1366	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:21:47" .
+ns1:1367	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:32:15" .
+ns1:1368	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:34:21" .
+ns1:1370	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:37:07" .
+ns1:1371	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:40:57" .
+ns1:1372	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:42:38" .
+ns1:1374	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:54:33" .
+ns1:1375	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 07:58:49" .
+ns1:1376	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:01:36" .
+ns1:1377	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:02:53" .
+ns1:1378	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:04:40" .
+ns1:1379	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:07:35" .
+ns1:1380	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:13:25" .
+ns1:1381	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:15:11" .
+ns1:1382	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:20:19" .
+ns1:1383	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:22:17" .
+ns1:1384	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:24:36" .
+ns1:1385	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:29:48" .
+ns1:1386	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:31:58" .
+ns1:1387	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:42:27" .
+ns1:1388	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:43:34" .
+ns1:1389	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:48:33" .
+ns1:1390	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:50:25" .
+ns1:1391	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:52:51" .
+ns1:1392	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 08:58:28" .
+ns1:1393	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:00:22" .
+ns1:1394	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:03:34" .
+ns1:1395	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:09:42" .
+ns1:1396	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:12:44" .
+ns1:1397	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:18:01" .
+ns1:1398	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:19:23" .
+ns1:1399	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:25:51" .
+ns1:1400	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:35:48" .
+ns1:1401	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:47:07" .
+ns1:1402	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:56:08" .
+ns1:1403	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:58:48" .
+ns1:1404	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 09:59:58" .
+ns1:1405	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:01:47" .
+ns1:1406	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:07:05" .
+ns1:1407	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:12:00" .
+ns1:1408	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:15:29" .
+ns1:1409	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:17:21" .
+ns1:1410	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:19:43" .
+ns1:1411	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:27:43" .
+ns1:1412	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:33:17" .
+ns1:1413	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:34:41" .
+ns1:1414	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:37:06" .
+ns1:1415	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:39:05" .
+ns1:1416	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:49:08" .
+ns1:1417	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 10:53:40" .
+ns1:1418	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 19:33:46" .
+ns1:1419	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 19:51:56" .
+ns1:1421	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 19:54:13" .
+ns1:1422	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 20:03:48" .
+ns1:1423	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 20:05:07" .
+ns1:1424	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 20:37:57" .
+ns1:1425	a	ns0:Sample ;
+	ns2:has_created	"2020-07-17 20:39:15" .
+ns1:1426	a	ns0:Sample ;
+	ns2:has_created	"2020-07-18 21:16:20" .
+ns1:1428	a	ns0:Sample ;
+	ns2:has_created	"2020-07-20 07:50:38" .
+ns1:1429	a	ns0:Sample ;
+	ns2:has_created	"2020-07-20 07:54:34" .
+ns1:1430	a	ns0:Sample ;
+	ns2:has_created	"2020-07-20 07:58:28" .
+ns1:1431	a	ns0:Sample ;
+	ns2:has_created	"2020-07-20 22:37:10" .
+ns1:1432	a	ns0:Sample ;
+	ns2:has_created	"2020-07-20 22:40:29" .
+ns1:1433	a	ns0:Sample ;
+	ns2:has_created	"2020-07-20 22:42:45" .
+ns1:1434	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 00:52:27" .
+ns1:1436	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 01:30:19" .
+ns1:1437	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 01:53:40" .
+ns1:1438	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 01:55:54" .
+ns1:1439	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 01:57:25" .
+ns1:1440	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 01:58:16" .
+ns1:1441	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 01:59:57" .
+ns1:1442	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 02:02:23" .
+ns1:1453	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 18:30:40" .
+ns1:1454	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 18:34:07" .
+ns1:1455	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 18:35:30" .
+ns1:1456	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 18:38:39" .
+ns1:1457	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 18:45:30" .
+ns1:1458	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 18:50:04" .
+ns1:1459	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 18:51:37" .
+ns1:1460	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 18:55:55" .
+ns1:1461	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 19:00:48" .
+ns1:1463	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 19:05:58" .
+ns1:1464	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 19:08:38" .
+ns1:1465	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 19:09:36" .
+ns1:1466	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 19:12:43" .
+ns1:1467	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 19:13:55" .
+ns1:1469	a	ns0:Sample ;
+	ns2:has_created	"2020-07-21 22:23:04" .
+ns1:1470	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:35:21" .
+ns1:1471	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:37:47" .
+ns1:1472	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:41:39" .
+ns1:1473	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:44:33" .
+ns1:1474	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:48:14" .
+ns1:1475	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:50:22" .
+ns1:1476	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:52:09" .
+ns1:1477	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:53:54" .
+ns1:1478	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:56:58" .
+ns1:1479	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 02:59:43" .
+ns1:1480	a	ns0:Sample ;
+	ns2:has_created	"2020-07-23 03:01:17" .
+ns1:1481	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 00:17:19" .
+ns1:1482	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 00:19:39" .
+ns1:1483	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 00:21:15" .
+ns1:1484	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 00:37:45" .
+ns1:1485	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 02:13:04" .
+ns1:1486	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 02:39:00" .
+ns1:1487	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 02:54:49" .
+ns1:1488	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 02:57:19" .
+ns1:1489	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 02:59:17" .
+ns1:1490	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:01:20" .
+ns1:1491	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:04:24" .
+ns1:1492	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:06:24" .
+ns1:1494	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:16:28" .
+ns1:1495	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:18:29" .
+ns1:1496	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:19:17" .
+ns1:1497	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:22:23" .
+ns1:1498	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:26:52" .
+ns1:1499	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:32:11" .
+ns1:1500	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:41:19" .
+ns1:1501	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:47:00" .
+ns1:1502	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 03:56:33" .
+ns1:1503	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 04:01:12" .
+ns1:1504	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 04:03:01" .
+ns1:1505	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 04:08:49" .
+ns1:1506	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 04:14:17" .
+ns1:1507	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 04:22:00" .
+ns1:1509	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 06:25:02" .
+ns1:1510	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 06:29:41" .
+ns1:1511	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 06:32:28" .
+ns1:1512	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 06:34:39" .
+ns1:1513	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 06:36:27" .
+ns1:1514	a	ns0:Sample ;
+	ns2:has_created	"2020-07-24 06:38:24" .
+ns1:1517	a	ns0:Sample ;
+	ns2:has_created	"2020-07-28 01:00:46" .
+ns1:1518	a	ns0:Sample ;
+	ns2:has_created	"2020-07-28 01:11:54" .
+ns1:1522	a	ns0:Sample ;
+	ns2:has_created	"2020-07-28 02:44:01" .
+ns1:1523	a	ns0:Sample ;
+	ns2:has_created	"2020-07-28 18:13:22" .
+ns1:1524	a	ns0:Sample ;
+	ns2:has_created	"2020-07-28 18:16:04" .
+ns1:1525	a	ns0:Sample ;
+	ns2:has_created	"2020-07-28 18:17:45" .
+ns1:1526	a	ns0:Sample ;
+	ns2:has_created	"2020-07-28 18:19:11" .
+ns1:1527	a	ns0:Sample ;
+	ns2:has_created	"2020-07-28 18:20:02" .
+ns1:1529	a	ns0:Sample ;
+	ns2:has_created	"2020-07-30 02:02:04" .
+ns1:1530	a	ns0:Sample ;
+	ns2:has_created	"2020-07-30 19:22:27" .
+ns1:1531	a	ns0:Sample ;
+	ns2:has_created	"2020-07-30 20:32:16" .
+ns1:1532	a	ns0:Sample ;
+	ns2:has_created	"2020-07-30 20:34:28" .
+ns1:1533	a	ns0:Sample ;
+	ns2:has_created	"2020-07-30 21:15:48" .
+ns1:1534	a	ns0:Sample ;
+	ns2:has_created	"2020-07-30 21:20:42" .
+ns1:1535	a	ns0:Sample ;
+	ns2:has_created	"2020-07-30 21:47:41" .
+ns1:1536	a	ns0:Sample ;
+	ns2:has_created	"2020-07-30 21:50:00" .
+ns1:1537	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 02:39:37" .
+ns1:1538	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 04:11:49" .
+ns1:1539	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 04:14:22" .
+ns1:1540	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 04:20:02" .
+ns1:1542	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 04:42:05" .
+ns1:1543	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 04:48:01" .
+ns1:1544	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 04:51:47" .
+ns1:1545	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 04:54:10" .
+ns1:1548	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 05:03:55" .
+ns1:1549	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 14:40:07" .
+ns1:1550	a	ns0:Sample ;
+	ns2:has_created	"2020-07-31 14:47:28" .
+ns1:1551	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 17:18:44" .
+ns1:1552	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 17:21:34" .
+ns1:1553	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 17:24:00" .
+ns1:1554	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 17:26:36" .
+ns1:1555	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 17:43:44" .
+ns1:1556	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 17:52:25" .
+ns1:1557	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 20:06:15" .
+ns1:1558	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 20:13:13" .
+ns1:1559	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 20:28:52" .
+ns1:1560	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 20:42:07" .
+ns1:1561	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 21:58:44" .
+ns1:1562	a	ns0:Sample ;
+	ns2:has_created	"2020-08-01 22:06:56" .
+ns1:1563	a	ns0:Sample ;
+	ns2:has_created	"2020-08-02 01:08:35" .
+ns1:1564	a	ns0:Sample ;
+	ns2:has_created	"2020-08-02 01:38:04" .
+ns1:1566	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 17:27:46" .
+ns1:1567	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 17:47:14" .
+ns1:1568	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 17:54:47" .
+ns1:1569	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 18:07:24" .
+ns1:1570	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 18:20:02" .
+ns1:1572	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 18:53:07" .
+ns1:1573	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 19:27:09" .
+ns1:1575	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 19:42:05" .
+ns1:1576	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 20:09:26" .
+ns1:1577	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 20:23:20" .
+ns1:1578	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 21:43:08" .
+ns1:1579	a	ns0:Sample ;
+	ns2:has_created	"2020-08-03 22:41:16" .
+ns1:1583	a	ns0:Sample ;
+	ns2:has_created	"2020-08-04 17:52:45" .
+ns1:1584	a	ns0:Sample ;
+	ns2:has_created	"2020-08-04 17:58:32" .
+ns1:1585	a	ns0:Sample ;
+	ns2:has_created	"2020-08-04 18:10:53" .
+ns1:1586	a	ns0:Sample ;
+	ns2:has_created	"2020-08-04 18:14:07" .
+ns1:1587	a	ns0:Sample ;
+	ns2:has_created	"2020-08-04 18:16:22" .
+ns1:1588	a	ns0:Sample ;
+	ns2:has_created	"2020-08-04 18:37:45" .
+ns1:1589	a	ns0:Sample ;
+	ns2:has_created	"2020-08-04 18:44:41" .
+ns1:1608	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 03:46:18" .
+ns1:1609	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 03:48:48" .
+ns1:1610	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 03:57:19" .
+ns1:1611	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 03:59:13" .
+ns1:1612	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 04:01:26" .
+ns1:1613	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 04:27:59" .
+ns1:1614	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 04:28:56" .
+ns1:1615	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 04:31:03" .
+ns1:1616	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 04:32:39" .
+ns1:1617	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 04:34:33" .
+ns1:1618	a	ns0:Sample ;
+	ns2:has_created	"2020-08-07 04:40:34" .
+ns1:1621	a	ns0:Sample ;
+	ns2:has_created	"2020-08-11 21:49:57" .
+ns1:1629	a	ns0:Sample ;
+	ns2:has_created	"2020-08-12 18:27:54" .
+ns1:1630	a	ns0:Sample ;
+	ns2:has_created	"2020-08-12 18:29:46" .
+ns1:1631	a	ns0:Sample ;
+	ns2:has_created	"2020-08-12 18:32:46" .
+ns1:1632	a	ns0:Sample ;
+	ns2:has_created	"2020-08-12 18:33:33" .
+ns1:1633	a	ns0:Sample ;
+	ns2:has_created	"2020-08-12 18:45:58" .
+ns1:1634	a	ns0:Sample ;
+	ns2:has_created	"2020-08-12 18:47:03" .
+ns1:1635	a	ns0:Sample ;
+	ns2:has_created	"2020-08-12 18:52:21" .
+ns1:1636	a	ns0:Sample ;
+	ns2:has_created	"2020-08-12 18:53:43" .
+ns1:1637	a	ns0:Sample ;
+	ns2:has_created	"2020-08-17 00:28:51" .
+ns1:1638	a	ns0:Sample ;
+	ns2:has_created	"2020-08-17 04:56:22" .
+ns1:1639	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 00:35:16" .
+ns1:1640	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 01:11:29" .
+ns1:1641	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 02:16:20" .
+ns1:1642	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 02:20:59" .
+ns1:1643	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 02:30:10" .
+ns1:1644	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 02:33:50" .
+ns1:1645	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 02:36:21" .
+ns1:1646	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 02:50:52" .
+ns1:1647	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 17:23:51" .
+ns1:1648	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 18:03:02" .
+ns1:1649	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 18:44:50" .
+ns1:1650	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 19:54:05" .
+ns1:1651	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 20:08:11" .
+ns1:1652	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 20:32:19" .
+ns1:1653	a	ns0:Sample ;
+	ns2:has_created	"2020-08-21 20:57:45" .
+ns1:1654	a	ns0:Sample ;
+	ns2:has_created	"2020-08-23 23:26:49" .
+ns1:1655	a	ns0:Sample ;
+	ns2:has_created	"2020-08-23 23:35:28" .
+ns1:1656	a	ns0:Sample ;
+	ns2:has_created	"2020-08-23 23:48:46" .
+ns1:1657	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 10:53:25" .
+ns1:1658	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 10:55:10" .
+ns1:1659	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 10:59:15" .
+ns1:1660	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 11:20:38" .
+ns1:1661	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 11:24:35" .
+ns1:1662	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 11:33:22" .
+ns1:1663	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 13:15:32" .
+ns1:1664	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 13:17:54" .
+ns1:1665	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 13:19:36" .
+ns1:1666	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 13:22:31" .
+ns1:1667	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 20:22:39" .
+ns1:1668	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 20:24:15" .
+ns1:1669	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 20:26:08" .
+ns1:1670	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 20:27:53" .
+ns1:1671	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 20:29:42" .
+ns1:1672	a	ns0:Sample ;
+	ns2:has_created	"2020-09-04 20:31:19" .
+ns1:1673	a	ns0:Sample ;
+	ns2:has_created	"2020-09-15 20:54:46" .
+ns1:1674	a	ns0:Sample ;
+	ns2:has_created	"2020-09-15 21:50:36" .
+ns1:1675	a	ns0:Sample ;
+	ns2:has_created	"2020-09-29 20:51:24" .
+ns1:1676	a	ns0:Sample ;
+	ns2:has_created	"2020-10-19 02:51:34" .
+ns1:1677	a	ns0:Sample ;
+	ns2:has_created	"2020-10-19 03:06:47" .
+ns1:1678	a	ns0:Sample ;
+	ns2:has_created	"2020-10-19 03:35:29" .
+ns1:1715	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 01:33:35" .
+ns1:1716	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 01:37:11" .
+ns1:1717	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 01:39:19" .
+ns1:1718	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 01:41:00" .
+ns1:1719	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 01:44:25" .
+ns1:1720	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 01:46:27" .
+ns1:1721	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 01:49:00" .
+ns1:1722	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 01:50:39" .
+ns1:1723	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:07:35" .
+ns1:1724	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:09:41" .
+ns1:1725	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:12:21" .
+ns1:1726	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:18:58" .
+ns1:1727	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:20:47" .
+ns1:1728	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:22:29" .
+ns1:1729	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:26:02" .
+ns1:1730	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:27:48" .
+ns1:1731	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:29:02" .
+ns1:1732	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:30:17" .
+ns1:1733	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:31:27" .
+ns1:1734	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:32:46" .
+ns1:1735	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:35:50" .
+ns1:1736	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:37:11" .
+ns1:1737	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:41:30" .
+ns1:1738	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:43:54" .
+ns1:1739	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:46:25" .
+ns1:1740	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:48:21" .
+ns1:1741	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:50:11" .
+ns1:1742	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:51:24" .
+ns1:1743	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:52:38" .
+ns1:1744	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:54:02" .
+ns1:1745	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:56:54" .
+ns1:1746	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 02:58:34" .
+ns1:1747	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 03:00:02" .
+ns1:1748	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 03:02:19" .
+ns1:1750	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:42:53" .
+ns1:1751	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:44:21" .
+ns1:1752	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:46:08" .
+ns1:1753	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:47:18" .
+ns1:1754	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:48:11" .
+ns1:1755	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:49:35" .
+ns1:1756	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:52:15" .
+ns1:1757	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:54:10" .
+ns1:1758	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:55:34" .
+ns1:1759	a	ns0:Sample ;
+	ns2:has_created	"2020-12-16 04:57:20" .
+ns1:1760	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:01:36" .
+ns1:1761	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:04:04" .
+ns1:1762	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:08:28" .
+ns1:1763	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:10:52" .
+ns1:1764	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:13:06" .
+ns1:1765	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:14:49" .
+ns1:1766	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:16:30" .
+ns1:1767	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:21:42" .
+ns1:1768	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:23:25" .
+ns1:1769	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:26:00" .
+ns1:1770	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:30:26" .
+ns1:1771	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:32:50" .
+ns1:1772	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:34:43" .
+ns1:1773	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:37:12" .
+ns1:1774	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:39:12" .
+ns1:1775	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:42:33" .
+ns1:1776	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:45:44" .
+ns1:1777	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:47:57" .
+ns1:1778	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:50:47" .
+ns1:1779	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:53:13" .
+ns1:1780	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:55:37" .
+ns1:1781	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:58:16" .
+ns1:1782	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 07:59:57" .
+ns1:1783	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 08:02:21" .
+ns1:1784	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 08:04:14" .
+ns1:1785	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 08:05:50" .
+ns1:1786	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 08:08:53" .
+ns1:1787	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 23:06:44" .
+ns1:1788	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 23:13:44" .
+ns1:1789	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 23:35:33" .
+ns1:1790	a	ns0:Sample ;
+	ns2:has_created	"2020-12-22 23:55:46" .
+ns1:1791	a	ns0:Sample ;
+	ns2:has_created	"2020-12-23 00:35:19" .
+ns1:1792	a	ns0:Sample ;
+	ns2:has_created	"2020-12-23 01:12:13" .
+ns1:1793	a	ns0:Sample ;
+	ns2:has_created	"2020-12-23 01:44:14" .
+ns1:1794	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:07:36" .
+ns1:1795	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:09:11" .
+ns1:1796	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:10:49" .
+ns1:1797	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:12:26" .
+ns1:1798	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:15:42" .
+ns1:1799	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:18:21" .
+ns1:1800	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:20:26" .
+ns1:1801	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:22:18" .
+ns1:1802	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:25:32" .
+ns1:1803	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:27:54" .
+ns1:1804	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:29:31" .
+ns1:1805	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:30:38" .
+ns1:1806	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:31:42" .
+ns1:1807	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:34:15" .
+ns1:1808	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:36:12" .
+ns1:1809	a	ns0:Sample ;
+	ns2:has_created	"2020-12-29 04:38:46" .
+ns1:1810	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:24:47" .
+ns1:1811	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:26:26" .
+ns1:1813	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:30:49" .
+ns1:1814	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:32:08" .
+ns1:1815	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:33:24" .
+ns1:1816	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:34:46" .
+ns1:1817	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:39:07" .
+ns1:1818	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:40:17" .
+ns1:1819	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:43:13" .
+ns1:1820	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:44:40" .
+ns1:1821	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:45:52" .
+ns1:1822	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:46:58" .
+ns1:1823	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:49:02" .
+ns1:1825	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:53:52" .
+ns1:1826	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:55:24" .
+ns1:1827	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 04:59:11" .
+ns1:1828	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 05:00:35" .
+ns1:1829	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 05:02:06" .
+ns1:1831	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:14:30" .
+ns1:1832	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:18:54" .
+ns1:1833	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:22:16" .
+ns1:1834	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:26:29" .
+ns1:1835	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:29:12" .
+ns1:1836	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:30:22" .
+ns1:1837	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:32:21" .
+ns1:1838	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:34:27" .
+ns1:1839	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:36:13" .
+ns1:1840	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 07:40:39" .
+ns1:1841	a	ns0:Sample ;
+	ns2:has_created	"2021-01-05 19:50:34" .
+ns1:1844	a	ns0:Sample ;
+	ns2:has_created	"2021-01-19 00:05:01" .
+ns1:1845	a	ns0:Sample ;
+	ns2:has_created	"2021-01-19 00:07:33" .
+ns1:1846	a	ns0:Sample ;
+	ns2:has_created	"2021-01-19 00:20:10" .
+ns1:1847	a	ns0:Sample ;
+	ns2:has_created	"2021-01-19 00:50:02" .
+ns1:1848	a	ns0:Sample ;
+	ns2:has_created	"2021-01-19 00:54:34" .
+ns1:1849	a	ns0:Sample ;
+	ns2:has_created	"2021-01-19 21:27:10" .
+ns1:1850	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 20:44:58" .
+ns1:1851	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 20:47:58" .
+ns1:1852	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 21:02:43" .
+ns1:1853	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 21:11:11" .
+ns1:1854	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 21:15:50" .
+ns1:1855	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 21:18:26" .
+ns1:1856	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 21:33:33" .
+ns1:1857	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 21:35:17" .
+ns1:1858	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 21:36:44" .
+ns1:1859	a	ns0:Sample ;
+	ns2:has_created	"2021-02-02 21:37:57" .
+ns1:1860	a	ns0:Sample ;
+	ns2:has_created	"2021-02-09 01:20:57" .
+ns1:1861	a	ns0:Sample ;
+	ns2:has_created	"2021-02-09 01:30:34" .
+ns1:1864	a	ns0:Sample ;
+	ns2:has_created	"2021-03-08 04:35:34" .
+ns1:1866	a	ns0:Sample ;
+	ns2:has_created	"2021-03-08 05:03:21" .
+ns1:1868	a	ns0:Sample ;
+	ns2:has_created	"2021-03-08 05:19:46" .
+ns1:1869	a	ns0:Sample ;
+	ns2:has_created	"2021-03-08 05:22:47" .
+ns1:1870	a	ns0:Sample ;
+	ns2:has_created	"2021-03-08 05:29:54" .
+ns1:1871	a	ns0:Sample ;
+	ns2:has_created	"2021-03-08 05:43:41" .
+ns1:1872	a	ns0:Sample ;
+	ns2:has_created	"2021-03-08 05:52:30" .
+ns1:1873	a	ns0:Sample ;
+	ns2:has_created	"2021-06-15 20:41:36" .
+ns1:1874	a	ns0:Sample ;
+	ns2:has_created	"2021-06-15 21:08:33" .
+ns1:1875	a	ns0:Sample ;
+	ns2:has_created	"2021-06-15 21:16:11" .
+ns1:1876	a	ns0:Sample ;
+	ns2:has_created	"2021-06-15 21:29:22" .
+ns1:1877	a	ns0:Sample ;
+	ns2:has_created	"2021-06-26 16:01:45" .
+ns1:1878	a	ns0:Sample ;
+	ns2:has_created	"2021-06-26 16:26:52" .
+ns1:1879	a	ns0:Sample ;
+	ns2:has_created	"2021-07-16 14:34:01" .
+ns1:1880	a	ns0:Sample ;
+	ns2:has_created	"2021-07-16 16:47:56" .
+ns1:1881	a	ns0:Sample ;
+	ns2:has_created	"2021-07-16 17:06:07" .
+ns1:1882	a	ns0:Sample ;
+	ns2:has_created	"2021-07-16 17:27:36" .
+ns1:1883	a	ns0:Sample ;
+	ns2:has_created	"2021-07-16 17:43:30" .
+ns1:1884	a	ns0:Sample ;
+	ns2:has_created	"2021-10-19 15:20:18" .
+ns1:1885	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 17:38:50" .
+ns1:1886	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 17:47:58" .
+ns1:1888	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 17:52:16" .
+ns1:1889	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 17:53:30" .
+ns1:1890	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 18:10:04" .
+ns1:1892	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 18:25:16" .
+ns1:1893	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 18:30:36" .
+ns1:1894	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 19:02:16" .
+ns1:1896	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 19:06:36" .
+ns1:1897	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 19:07:46" .
+ns1:1898	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 19:08:24" .
+ns1:1899	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 19:09:13" .
+ns1:1900	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 20:33:35" .
+ns1:1901	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 20:37:12" .
+ns1:1902	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 20:42:30" .
+ns1:1903	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 20:48:04" .
+ns1:1904	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 20:50:46" .
+ns1:1905	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 21:04:14" .
+ns1:1906	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 21:08:01" .
+ns1:1907	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 21:10:17" .
+ns1:1908	a	ns0:Sample ;
+	ns2:has_created	"2021-10-26 21:13:06" .
+ns1:1909	a	ns0:Sample ;
+	ns2:has_created	"2022-01-20 04:16:26" .
+ns1:1912	a	ns0:Sample ;
+	ns2:has_created	"2022-01-20 13:48:48" .
+ns1:1913	a	ns0:Sample ;
+	ns2:has_created	"2022-01-20 14:59:38" .
+ns1:1914	a	ns0:Sample ;
+	ns2:has_created	"2022-01-20 15:09:23" .
+ns1:1915	a	ns0:Sample ;
+	ns2:has_created	"2022-01-20 15:21:20" .
+ns1:1916	a	ns0:Sample ;
+	ns2:has_created	"2022-01-20 15:46:25" .
+ns1:1917	a	ns0:Sample ;
+	ns2:has_created	"2022-01-20 16:01:17" .
+ns1:1924	a	ns0:Sample ;
+	ns2:has_created	"2022-01-20 16:20:18" .
+ns1:1925	a	ns0:Sample ;
+	ns2:has_created	"2022-02-02 13:31:01" .
